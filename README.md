@@ -1,1 +1,1 @@
-# excel-challenge
+# Kickstarter Analytic Data for UNC Bootcamp
